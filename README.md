@@ -61,6 +61,8 @@
 </div>
 
 ###  
+<br clear="both">
+
 <div align="center">
   <samp><h3><b> Contact me </b></h3></samp>
     
@@ -75,6 +77,7 @@
 ###
 
 <br clear="both">
+<br clear="both">
 
 <div align="center">
   <samp><h3><b> My github stats </b></h3></samp>
@@ -84,12 +87,16 @@
 
 ###
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/></picture>
+
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
