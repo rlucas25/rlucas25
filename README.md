@@ -16,7 +16,7 @@
   -->
   
 
-  <img align="center" height="300" src="https://media.tenor.com/SQKblGhaa6UAAAAi/mega-charizard-x.gif"/>
+  <img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRybW9rOW1jdDkwdXM0cGp5NWppMmtwZmhqY2tyZm9sOW9wcjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s2yJdktk2IlsC3QAZf/giphy.gif"/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=43179E&width=900&height=100&size=52&center=true&lines=I+am+Lucas+Reboucas;I'm+a+student+of+Computer+Science;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 
