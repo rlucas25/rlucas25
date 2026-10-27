@@ -84,7 +84,6 @@
 <div align="center">
   <samp><h3><b> My github stats </b></h3></samp>
   <img src="https://github-readme-stats.vercel.app/api?username=rlucas25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlucas25&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
