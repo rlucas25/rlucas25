@@ -79,11 +79,6 @@
 
 
 ###
-<br clear="both">
-<br clear="both">
-  <img align="left" height="70" src="https://media.tenor.com/vwh_SvD_ZdYAAAAi/wooper-bounce.gif"/>
-<br clear="both">
-<br clear="both">
 
 
 <div align="center">
