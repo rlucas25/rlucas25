@@ -82,7 +82,11 @@
 
 
 <p align="center">
-  <img src="./assets/liquid-morph-wordmark.svg" alt="Lucas Rebouças — Portfolio" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/liquid-morph-wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/liquid-morph-wordmark.svg">
+    <img src="./assets/liquid-morph-wordmark.svg" alt="Lucas Rebouças — Portfolio" width="100%" />
+  </picture>
 </p>
 
 ---
