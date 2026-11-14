@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Liquid Morph Wordmark">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Liquid Morph Wordmark — Lucas Rebouças">
   <defs>
     <!-- Subtle paper grain -->
     <filter id="lm-grain" x="0" y="0" width="100%" height="100%">
@@ -19,12 +19,12 @@
   <g transform="translate(60,52)" font-family="'JetBrains Mono', 'IBM Plex Mono', ui-monospace, monospace" font-size="10" letter-spacing="3" fill="#0a0a0a">
     <line x1="0" y1="-10" x2="22" y2="-10" stroke="#0a0a0a" stroke-width="0.7"/>
     <line x1="0" y1="-10" x2="0" y2="12" stroke="#0a0a0a" stroke-width="0.7"/>
-    <text x="32" y="-6">STUDIO  ·  EST. 2017  ·  ISTANBUL</text>
+    <text x="32" y="-6">CS STUDENT  ·  UFES  ·  BRAZIL</text>
   </g>
   <g transform="translate(1140,52)" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="3" fill="#0a0a0a" text-anchor="end">
     <line x1="0" y1="-10" x2="-22" y2="-10" stroke="#0a0a0a" stroke-width="0.7"/>
     <line x1="0" y1="-10" x2="0" y2="12" stroke="#0a0a0a" stroke-width="0.7"/>
-    <text x="-32" y="-6">N° MMXXVI / 003</text>
+    <text x="-32" y="-6">N° MMXXVI / 025</text>
   </g>
 
   <!-- Signal-red accent column -->
@@ -32,7 +32,7 @@
 
   <!-- Wordmark -->
   <g font-family="'Bodoni Moda', 'Playfair Display', 'Tiempos Headline', Georgia, serif" font-weight="900" fill="#0a0a0a">
-    <text x="92" y="270" font-size="200" letter-spacing="-9">JANE</text>
+    <text x="92" y="270" font-size="180" letter-spacing="-7">LUCAS</text>
   </g>
 
   <!-- Morphing glyph (right side) -->
@@ -72,13 +72,13 @@
 
   <!-- Subtle baseline rule under wordmark -->
   <line x1="92" y1="290" x2="846" y2="290" stroke="#0a0a0a" stroke-width="0.6"/>
-  <text x="846" y="304" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="9" fill="#0a0a0a" letter-spacing="3">— 4 GLYPHS · 1 MARK · 6 STATES</text>
+  <text x="846" y="304" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="9" fill="#0a0a0a" letter-spacing="3">— 5 GLYPHS · 1 MARK · 6 STATES</text>
 
   <!-- Bottom strip -->
   <line x1="60" y1="360" x2="1140" y2="360" stroke="#0a0a0a" stroke-width="0.5"/>
   <g font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="3" fill="#0a0a0a">
-    <text x="60" y="382">INTERFACE  /  TYPE  /  MOTION  /  RUNTIME ESSAYS</text>
-    <text x="1140" y="382" text-anchor="end" fill="#d62828">JANE.DEV  →</text>
+    <text x="60" y="382">INTERFACE DESIGN  /  LINUX SHELL  /  ASURA PROJECT</text>
+    <text x="1140" y="382" text-anchor="end" fill="#d62828">GITHUB.COM/RLUCAS25  →</text>
   </g>
 
   <!-- Registration crosses (printer's marks) -->

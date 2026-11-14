@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/lucas-rebouças-06b7b6255" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="lucasss.contact@gmail.com" target="_blank">
+  <a href="mailto:lucasss.contact@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <img src="./assets/liquid-morph-wordmark.svg" alt="{{name_short}} — {{tagline}}" width="100%" />
+  <img src="./assets/liquid-morph-wordmark.svg" alt="Lucas Rebouças — Portfolio" width="100%" />
 </p>
 
 ---
@@ -93,56 +93,42 @@
 
 ### what
 
-{{what_paragraph}}
+Computer Science student at UFES, exploring desktop environments and neural network.
 
 ### now
 
-{{now_paragraph}}
+Developing [Asura Shell](https://github.com/rlucas25/ASURA-linux) — a custom Linux desktop environment, alongside studies in software architecture and algorithms.
 
-### writing
+### focus
 
-{{writing_paragraph}}
+Operating systems, UI/UX interaction, C/C++, Python, and desktop shell design.
 
     </td>
     <td valign="top" width="40%" align="right">
       <p><strong>SELECTED</strong><br>
-      <code>01</code> &nbsp; <a href="{{work_one_url}}">{{work_one_name}}</a><br>
-      <code>02</code> &nbsp; <a href="{{work_two_url}}">{{work_two_name}}</a><br>
-      <code>03</code> &nbsp; <a href="{{work_three_url}}">{{work_three_name}}</a></p>
+      <code>01</code> &nbsp; <a href="https://github.com/rlucas25/ASURA-linux">Asura-linux</a><br>
+      <code>02</code> &nbsp; <a href="https://github.com/rlucas25/File-compressor">File-compressor</a><br>
+      <code>03</code> &nbsp; <a href="https://github.com/rlucas25/BPlusTree-HRM">BPlusTree-HRM</a></p>
 
       <p><strong>FIND</strong><br>
-      <a href="{{website_url}}">{{website}}</a><br>
-      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a><br>
-      <a href="mailto:{{email}}">{{email}}</a></p>
+      <a href="https://github.com/rlucas25">github.com/rlucas25</a><br>
+      <a href="https://www.linkedin.com/in/lucas-rebou%C3%A7as-06b7b6255">LinkedIn</a><br>
+      <a href="mailto:lucasss.contact@gmail.com">lucasss.contact@gmail.com</a></p>
     </td>
   </tr>
 </table>
 
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/></picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
 
 <br clear="both">
 <br clear="both">
 <br clear="both">
 <br clear="both">
-
-  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph.svg">
-
-
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
-
-  
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlucas25/rlucas25/output/pacman-contribution-graph.svg">
+</picture>
