@@ -1,7 +1,4 @@
-<!--
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=dd0afc&section=header"/>
 
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=5&section=header"/>
 
@@ -17,22 +14,14 @@
 </p>
 
 <div align="center">
-  <!--
-  <samp>
-    <h2>
-      Hi there !, I am Lucas Rebouças  👋
-    </h2>
-  </samp>
-  -->
   
 
-  <img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRybW9rOW1jdDkwdXM0cGp5NWppMmtwZmhqY2tyZm9sOW9wcjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s2yJdktk2IlsC3QAZf/giphy.gif"/>
+
+<br clear="both">
   
 
 </div>
-
-<br clear="both">
-<br clear="both">
+  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRybW9rOW1jdDkwdXM0cGp5NWppMmtwZmhqY2tyZm9sOW9wcjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s2yJdktk2IlsC3QAZf/giphy.gif"/>
 
 <samp><h4>> I am a Brazilian Computer Science student at UFES.</h4></samp>
 <samp><h4>> I appreciate interface design and have turned this into a linux environment, check out Asura linux.</h4></samp>
@@ -78,10 +67,7 @@
 
 </div>
 
-###  
 <br clear="both">
-
-
 
 
 ---
