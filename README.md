@@ -81,10 +81,42 @@
 ###
 
 
-<div align="center">
-  <samp><h3><b> My github stats </b></h3></samp>
-  <img src="https://github-readme-stats.vercel.app/api?username=rlucas25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<p align="center">
+  <img src="./assets/liquid-morph-wordmark.svg" alt="{{name_short}} — {{tagline}}" width="100%" />
+</p>
+
+---
+
+<table border="0" align="center" width="80%">
+  <tr>
+    <td valign="top" width="60%">
+
+### what
+
+{{what_paragraph}}
+
+### now
+
+{{now_paragraph}}
+
+### writing
+
+{{writing_paragraph}}
+
+    </td>
+    <td valign="top" width="40%" align="right">
+      <p><strong>SELECTED</strong><br>
+      <code>01</code> &nbsp; <a href="{{work_one_url}}">{{work_one_name}}</a><br>
+      <code>02</code> &nbsp; <a href="{{work_two_url}}">{{work_two_name}}</a><br>
+      <code>03</code> &nbsp; <a href="{{work_three_url}}">{{work_three_name}}</a></p>
+
+      <p><strong>FIND</strong><br>
+      <a href="{{website_url}}">{{website}}</a><br>
+      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a><br>
+      <a href="mailto:{{email}}">{{email}}</a></p>
+    </td>
+  </tr>
+</table>
 
 ###
 
