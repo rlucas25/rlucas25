@@ -6,6 +6,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=header"/>
 
 
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/liquid-morph-wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/liquid-morph-wordmark.svg">
+    <img src="./assets/liquid-morph-wordmark.svg" alt="Lucas Rebouças — Portfolio" width="100%" />
+  </picture>
+</p>
+
 <div align="center">
   <!--
   <samp>
@@ -18,7 +28,6 @@
 
   <img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRybW9rOW1jdDkwdXM0cGp5NWppMmtwZmhqY2tyZm9sOW9wcjlldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s2yJdktk2IlsC3QAZf/giphy.gif"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=43179E&width=900&height=100&size=52&center=true&lines=I+am+Lucas+Reboucas;Student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 
 </div>
 
@@ -28,7 +37,6 @@
 <samp><h4>> I am a Brazilian Computer Science student at UFES.</h4></samp>
 <samp><h4>> I’m currently studying interface design and building a custom Linux desktop shell.</h4></samp>
   <img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdwNjFibTZjZmE5Y3Bra2Fzcm41Z3VrdXY4NHh5a3BtdXNhNzhkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QZ1Tdn1p3OSJw1RrRy/giphy.gif"/>
-<samp><h4>> Asura Shell is currently in progress...</h4></samp>
 
 <br clear="both">
 <br clear="both">
@@ -77,17 +85,6 @@
   </a>
 </div>
 
-
-###
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/liquid-morph-wordmark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/liquid-morph-wordmark.svg">
-    <img src="./assets/liquid-morph-wordmark.svg" alt="Lucas Rebouças — Portfolio" width="100%" />
-  </picture>
-</p>
 
 ---
 
