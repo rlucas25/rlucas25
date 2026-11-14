@@ -87,37 +87,6 @@
 
 ---
 
-<table border="0" align="center" width="80%">
-  <tr>
-    <td valign="top" width="60%">
-
-### what
-
-Computer Science student at UFES, exploring desktop environments and neural network.
-
-### now
-
-Developing [Asura Shell](https://github.com/rlucas25/ASURA-linux) — a custom Linux desktop environment, alongside studies in software architecture and algorithms.
-
-### focus
-
-Operating systems, UI/UX interaction, C/C++, Python, and desktop shell design.
-
-    </td>
-    <td valign="top" width="40%" align="right">
-      <p><strong>SELECTED</strong><br>
-      <code>01</code> &nbsp; <a href="https://github.com/rlucas25/ASURA-linux">Asura-linux</a><br>
-      <code>02</code> &nbsp; <a href="https://github.com/rlucas25/File-compressor">File-compressor</a><br>
-      <code>03</code> &nbsp; <a href="https://github.com/rlucas25/BPlusTree-HRM">BPlusTree-HRM</a></p>
-
-      <p><strong>FIND</strong><br>
-      <a href="https://github.com/rlucas25">github.com/rlucas25</a><br>
-      <a href="https://www.linkedin.com/in/lucas-rebou%C3%A7as-06b7b6255">LinkedIn</a><br>
-      <a href="mailto:lucasss.contact@gmail.com">lucasss.contact@gmail.com</a></p>
-    </td>
-  </tr>
-</table>
-
 ###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
